@@ -3,10 +3,6 @@
 // Example using your exact iframe URL:
 const embedUrl =
   "https://app.powerbi.com/reportEmbed?reportId=326a3278-6950-4062-8214-299d5bb629c9&autoAuth=true&ctid=dde2fb8f-d8e0-445e-b851-e69c198c1e59";
-
-// If you prefer IDs instead, comment the line above and set:
-// const reportId = '326a3278-6950-4062-8214-299d5bb629c9'
-// const tenantId = 'dde2fb8f-d8e0-445e-b851-e69c198c1e59'
 </script>
 
 <template>
