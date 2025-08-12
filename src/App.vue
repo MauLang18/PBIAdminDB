@@ -1,6 +1,4 @@
 <script setup lang="ts">
-// You can either pass the full embedUrl OR just reportId + tenantId.
-// Example using your exact iframe URL:
 const embedUrl =
   "https://app.powerbi.com/reportEmbed?reportId=326a3278-6950-4062-8214-299d5bb629c9&autoAuth=true&ctid=dde2fb8f-d8e0-445e-b851-e69c198c1e59";
 </script>
